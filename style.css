@@ -7,3 +7,6 @@ body {
 h1 {
   color: blue;
 }
+nav {
+  margin-bottom: 20px;
+}
