@@ -1,32 +1,73 @@
-# web-dev-with-claude
-AI-assisted web development project using HTML, CSS, and JavaScript
-# AI Business Website
+# AI Web Agency Project
 
-A modern business website built using AI-assisted development.
+A modern multi-page business website built using AI-assisted development with HTML, CSS, and JavaScript.
 
-## Features
-- Multi-page responsive design
+This project demonstrates how AI tools like Claude can be used to design, develop, and improve real-world websites efficiently.
+
+---
+
+## 🚀 Features
+
+- Multi-page responsive website
+- Modern UI with clean layout
 - Contact form with validation
-- Clean UI/UX
-- Structured layout
+- Interactive elements using JavaScript
+- Structured and scalable codebase
 
-## Pages
-- Home
-- About
-- Services
-- Contact
+---
 
-## Tech Stack
-- HTML
-- CSS
-- JavaScript
+## 📄 Pages
 
-## AI Usage
-Claude was used for:
-- Generating layouts
-- Improving UI design
-- Debugging code
-- Enhancing development workflow
+- Home (Landing page with hero and services)
+- About (Company overview)
+- Services (What we offer)
+- Contact (Form with validation + user feedback)
 
-## Status
-🚧 Actively under development
+---
+
+## 🛠 Tech Stack
+
+- HTML5  
+- CSS3  
+- JavaScript  
+
+---
+
+## 🤖 AI Usage
+
+Claude was used in this project for:
+
+- Generating initial layouts and structure  
+- Improving UI/UX design  
+- Debugging and optimizing code  
+- Enhancing development speed and workflow  
+
+---
+
+## 📌 Project Status
+
+🚧 Actively under development with ongoing improvements and feature additions.
+
+---
+
+## ⚙️ Setup Instructions
+
+1. Clone the repository  
+2. Open `index.html` in your browser  
+3. Explore different pages  
+
+---
+
+## 📈 Future Improvements
+
+- Improve mobile responsiveness  
+- Add animations and transitions  
+- Integrate backend for contact form  
+- Enhance UI with advanced components  
+
+---
+
+## 📬 Contact
+
+For collaboration or inquiries:  
+📧 contact@aiwebstudio.com
