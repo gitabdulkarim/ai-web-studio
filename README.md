@@ -1,4 +1,4 @@
-# AI Web Agency Project
+# AI Web Studio Project 
 
 A modern multi-page business website built using AI-assisted development with HTML, CSS, and JavaScript.
 
