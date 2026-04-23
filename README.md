@@ -40,7 +40,7 @@ Claude was used in this project for:
 - Generating initial layouts and structure  
 - Improving UI/UX design  
 - Debugging and optimizing code  
-- Enhancing development speed and workflow  
+- Enhancing development speed and all workflow  
 
 ---
 
