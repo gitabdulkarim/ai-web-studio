@@ -3,7 +3,8 @@
 A modern multi-page business website built using AI-assisted development with HTML, CSS, and JavaScript.
 
 This project demonstrates how AI tools like Claude can be used to design, develop, and improve real-world websites efficiently.
-
+## 🌐 Live Demo
+https://gitabdulkarim.github.io/ai-web-studio/
 ---
 
 ## 🚀 Features
