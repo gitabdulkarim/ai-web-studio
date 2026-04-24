@@ -312,3 +312,34 @@ footer {
     flex-direction: column;
   }
 }
+/* FORCE CONTACT FIX */
+.contact-container {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr;
+  gap: 60px;
+}
+
+/* FORCE FORM STACK */
+.contact-form form {
+  display: flex;
+  flex-direction: column;
+}
+
+/* FIX INPUT ALIGNMENT */
+.contact-form input,
+.contact-form textarea {
+  display: block;
+  width: 100%;
+}
+
+/* FIX BUTTON */
+.contact-form button {
+  margin-top: 10px;
+}
+
+/* MOBILE FIX */
+@media (max-width: 768px) {
+  .contact-container {
+    grid-template-columns: 1fr;
+  }
+}
